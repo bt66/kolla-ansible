@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: https://github.com/bt66/kolla-ansible
+  - name: https://opendev.org/openstack/ansible-collection-kolla
     type: git
-    version: yoga
+    version: master
