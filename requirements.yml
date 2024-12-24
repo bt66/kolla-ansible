@@ -1,5 +1,5 @@
 ---
 collections:
-  - name: kolla-ansible
+  - name: https://github.com/bt66/kolla-ansible
     type: git
     version: yoga
