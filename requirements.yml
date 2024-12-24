@@ -2,4 +2,4 @@
 collections:
   - name: https://github.com/bt66/kolla-ansible.git
     type: git
-    version: yoga-eol
+    version: yoga
